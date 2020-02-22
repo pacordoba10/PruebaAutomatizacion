@@ -1,0 +1,17 @@
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\PruebaAutomatizacion.exe.config
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\PruebaAutomatizacion.exe
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\PruebaAutomatizacion.pdb
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\WebDriver.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\WebDriver.xml
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\obj\Debug\PruebaAutomatizacion.csprojResolveAssemblyReference.cache
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\obj\Debug\PruebaAutomatizacion.exe
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\obj\Debug\PruebaAutomatizacion.pdb
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Appium.Net.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Castle.Core.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Newtonsoft.Json.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\SeleniumExtras.PageObjects.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\WebDriver.Support.dll
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Castle.Core.xml
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Newtonsoft.Json.pdb
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\Newtonsoft.Json.xml
+c:\users\d.camacho\documents\visual studio 2015\Projects\PruebaAutomatizacion\PruebaAutomatizacion\bin\Debug\WebDriver.Support.xml
